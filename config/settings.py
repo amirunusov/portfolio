@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-mkv-e#w)4sk!v++6803o^h#c)o@b$y%&5a$rvidyilmqk*$ogx'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['3.82.193.224', 'localhost', '127.0.0.1:8000', 'config.amrk.uz', 'amrk.uz']
 
